@@ -77,11 +77,11 @@ El sistema está enfocado en ofrecer una **experiencia clara, organizada y acces
 ## 🧪 Uso
 # Clonar repositorio
 ```
-git clone https://github.com/tu-usuario/universidad-web.git
+git clone https://github.com/isairey/WebUniversidad.git
 ```
 # Entrar al proyecto
 ```
-cd universidad-web
+cd WebUniversidad
 ```
 # Abrir en navegador
 ```
